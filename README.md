@@ -1,4 +1,4 @@
 # Santosh--demo
 This is my first git repository
 <br>
-Author - Santosh Chapagain
+Author - Santosh Chapagain(Coder)
